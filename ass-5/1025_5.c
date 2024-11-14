@@ -33,8 +33,8 @@ Output Description - Print the individual total and the grand total
 */
 
 /*
-Compilation Command (in Linux Bash Terminal) :- gcc -o ass4 58ass5.c -lpthread
-Execution Command (in Linux Bash Terminal) :- ./ass4
+Compilation Command (in Linux Bash Terminal) :- gcc 1025_5.c -lpthread
+Execution Command (in Linux Bash Terminal) :- ./a.out
 */
 
 /*
